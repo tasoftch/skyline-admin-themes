@@ -18,6 +18,8 @@
     "skyline/themes": "dev-master"
   },
   "require-dev": {
-    "phpunit/phpunit": "^6"
+    "phpunit/phpunit": "^6",
+    "tasoft/phar-builder": "dev-master",
+    "symfony/console": "5.0.7"
   }
 }
